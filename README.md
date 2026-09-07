@@ -10,4 +10,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yandias-me)
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- light mode -->
+  <img src="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true" />
+</picture>
