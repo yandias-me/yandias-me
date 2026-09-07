@@ -10,17 +10,22 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ### 🛠️ GitHub Stats
 <picture>
   <source
-    srcset="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    srcset="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <!-- light mode -->
   <img src="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true" />
 </picture>
 
-### 🛠️ GitHub Stats
-<div>
-  <a href="https://github.com/yandias-me">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yandias-me&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<div>
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yandias-me&layout=donut&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- light mode -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yandias-me&layout=donut&show_icons=true&theme=dracula" />
+</picture>
