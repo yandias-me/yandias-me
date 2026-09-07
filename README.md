@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yan Dias 👋
 
 
 - 🔭 I’m currently working on ...
@@ -18,3 +18,10 @@
   <!-- light mode -->
   <img src="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true" />
 </picture>
+
+### 🛠️ GitHub Stats
+<div>
+  <a href="https://github.com/yandias-me">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yandias-me&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yandias-me&layout=compact&langs_count=8&theme=dracula"/>
+<div>
