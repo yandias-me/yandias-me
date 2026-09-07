@@ -2,10 +2,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2986cc&height=120&section=header"/>
 
-## Yan Dias 👋
+## Yan Dias 👋👾🎮🎲😎
 - **💻 Analista Administrativo** com conhecimento em SQL, Python, VBA, Excel Avançado, Power BI e no ERP Winthor da TOTVS
 - 🔧 Em processo de transição de carreira para **Análise de Dados**
 - 🌱 Atuamente procurando me atualizar e aprender novas ferramentas e funcionalidades na área de dados
+
+##
 
 ### My Skills:
 <div style="display: inline_block"><br>
@@ -14,6 +16,8 @@
   <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000">
   <img align="center" alt="Power BI" height="40" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000">
 </div>
+
+##
 
   ### 🛠️ GitHub Stats
 <picture>
