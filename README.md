@@ -7,6 +7,10 @@
 - 🔧 Em processo de transição de carreira para **Análise de Dados**
 - 🌱 Atuamente procurando me atualizar e aprender novas ferramentas e funcionalidades na área de dados
 
+<div> 
+  <a href="https://www.linkedin.com/in/yan-campos-alves-dias-b75a6740/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ##
 
 </div>
@@ -21,15 +25,7 @@
   <img align="center" alt="Power BI" height="40" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000">
 </div>
 
-##
-
-<div> 
-  <a href="https://www.linkedin.com/in/yan-campos-alves-dias-b75a6740/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-
-  ### 🛠️ GitHub Stats
+  ### 🛠️ GitHub Stats:
 <picture>
   <source
     srcset="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true&include_all_commits&theme=dracula"
