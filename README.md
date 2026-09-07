@@ -14,7 +14,7 @@
 ##
 
 </div>
-  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.ibb.co/7JHcGhSx/coloque-um-gato-na-foto-para-fazer-companhia-para-ele.png">
+  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.ibb.co/nNt8WTDh/Daytime-Version-Image-Edit.png">
 </div>
 
 ### My Skills:
