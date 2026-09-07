@@ -38,10 +38,12 @@
 
 <picture>
   <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yandias-me&layout=donut&show_icons=true&theme=dracula"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yandias-me&layout=compact&langs_count=8&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yandias-me&layout=donut&show_icons=true&layout=compact&theme=dracula" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yandias-me&layout=compact&langs_count=8&theme=dracula"
+  />
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2986cc&height=120&section=footer"/>
