@@ -17,7 +17,6 @@
     srcset="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
-  <!-- light mode -->
   <img src="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true" />
 </picture>
 
@@ -26,6 +25,5 @@
     srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yandias-me&layout=donut&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
-  <!-- light mode -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yandias-me&layout=donut&show_icons=true&theme=dracula" />
 </picture>
