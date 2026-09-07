@@ -1,6 +1,6 @@
 ## Yan Dias 👋
 
-- **💻 Analista Administrativo**, com conhecimento em SQL, Python, VBA, Excel Avançado, Power BI e no ERP Winthor da TOTVS
+- **💻 Analista Administrativo** com conhecimento em SQL, Python, VBA, Excel Avançado, Power BI e no ERP Winthor da TOTVS
 - 🔧 Em processo de transição de carreira para **Análise de Dados**
 - 🌱 Atuamente procurando me atualizar e aprender novas ferramentas e funcionalidades na área de dados
 
