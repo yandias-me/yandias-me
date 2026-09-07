@@ -12,7 +12,7 @@
 -->
 <picture>
   <source
-    srcset="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true&theme=dark"
+    srcset="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <!-- light mode -->
