@@ -30,7 +30,7 @@
   ### 🛠️ GitHub Stats:
 <picture>
   <source
-    srcset="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true&include_all_commits&theme=dracula"
+    srcset="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true&include_all_commits=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-stats-extended.vercel.app/api?username=yandias-me&show_icons=true" />
